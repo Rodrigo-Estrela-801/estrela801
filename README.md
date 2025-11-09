@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Rodrigo Estrela! 👋
 
-### 🌉 Construindo pontes entre a Engenharia de Software e a Ciência de Dados.
+### 🌉 Trazendo Inovações entre a Engenharia de computação e mundo dos negócios.
 
 Sou estudante de Engenharia de computação, apaixonado por aplicar os princípios de **código limpo, automação e escalabilidade** para resolver problemas complexos.
 
